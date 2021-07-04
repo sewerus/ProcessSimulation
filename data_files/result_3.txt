@@ -1,0 +1,9 @@
+RAPORT SYMULACJI DLA PONI¯SZYCH PROCESÓW W CHWILI 18,2
+UZYTA METODA: SJF wywlaszczeniowy
+Proces	Czas przyjscia	Dlugosc procesu	Czas oczekiwania	Postep	Czas wykonywania od-do
+0		1,0		9,0		8,0		100,0%		 7,0-7,0 9,0-18,0
+1		1,0		3,0		3,0		100,0%		 1,0-2,0 5,0-7,0
+2		7,0		2,0		0,0		100,0%		 7,0-9,0
+3		2,0		2,0		1,0		100,0%		 3,0-5,0
+4		2,0		1,0		0,0		100,0%		 2,0-3,0
+Œredni czas oczekiwania: 2,4

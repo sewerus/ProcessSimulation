@@ -1,0 +1,9 @@
+RAPORT SYMULACJI DLA PONI¯SZYCH PROCESÓW W CHWILI 18,8
+UZYTA METODA: FCFS
+Proces	Czas przyjscia	Dlugosc procesu	Czas oczekiwania	Postep	Czas wykonywania od-do
+0		1,0		9,0		0,0		100,0%		 1,0-10,0
+1		1,0		3,0		9,0		100,0%		 10,0-13,0
+2		7,0		2,0		9,0		100,0%		 16,0-18,0
+3		2,0		2,0		11,0		100,0%		 13,0-15,0
+4		2,0		1,0		13,0		100,0%		 15,0-16,0
+Œredni czas oczekiwania: 8,4

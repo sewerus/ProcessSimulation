@@ -1,0 +1,5 @@
+RAPORT SYMULACJI DLA PONI¯SZYCH PROCESÓW W CHWILI 0,4
+Proces	Czas przyjscia	Dlugosc procesu	Czas oczekiwania	Postep	Czas wykonywania od-do
+0		1,0		1,0		0,0		0,0%		
+1		1,0		2,0		0,0		0,0%		
+2		2,0		3,0		0,0		0,0%		
